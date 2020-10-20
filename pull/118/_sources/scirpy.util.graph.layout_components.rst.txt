@@ -1,0 +1,6 @@
+scirpy.util.graph.layout\_components
+====================================
+
+.. currentmodule:: scirpy.util.graph
+
+.. autofunction:: layout_components

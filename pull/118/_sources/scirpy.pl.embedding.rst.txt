@@ -1,0 +1,6 @@
+scirpy.pl.embedding
+===================
+
+.. currentmodule:: scirpy.pl
+
+.. autofunction:: embedding

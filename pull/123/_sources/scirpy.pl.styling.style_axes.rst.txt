@@ -1,0 +1,6 @@
+scirpy.pl.styling.style\_axes
+=============================
+
+.. currentmodule:: scirpy.pl.styling
+
+.. autofunction:: style_axes
